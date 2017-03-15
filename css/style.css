@@ -1,0 +1,22 @@
+body, html{height:100%;}
+body {
+      font-family : Helvetica, sans-serif;
+      font-size : 20px;
+      }
+a {
+      color : #3399cc;
+      text-decoration: none;
+      font-weight: bold;
+      }
+a.visited {
+      color : #339933;
+      text-decoration: none;
+      font-weight: bold;
+      }
+h1 {
+      color : #aa0088;
+      }
+footer {
+  position:absolute;
+  bottom:0;
+}
