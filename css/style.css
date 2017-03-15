@@ -1,7 +1,7 @@
 body, html{height:100%;}
 body {
       font-family : Helvetica, sans-serif;
-      font-size : 20px;
+      font-size : 1.1em;
       }
 a {
       color : #3399cc;
@@ -17,6 +17,9 @@ h1 {
       color : #aa0088;
       }
 footer {
-  position:absolute;
-  bottom:0;
-}
+      position:absolute;
+      bottom:0;
+      }
+li {
+      font-size : 0.95em;
+      }
