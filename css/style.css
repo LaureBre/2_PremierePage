@@ -1,9 +1,12 @@
-body, html{height:100%;}
+body, html{
+      height:90%;
+      width:90%;
+      }
 body {
       font-family : Helvetica, sans-serif;
       font-size : 1.1em;
       }
-a {
+a    {
       color : #3399cc;
       text-decoration: none;
       font-weight: bold;
@@ -13,13 +16,25 @@ a.visited {
       text-decoration: none;
       font-weight: bold;
       }
-h1 {
+h1   {
       color : #aa0088;
+      }
+.TitrePageSsFond {
+        color : orange;
       }
 footer {
       position:absolute;
       bottom:0;
       }
-li {
+li   {
       font-size : 0.95em;
+      }
+p    {
+      font-size : 1em;
+      }
+.blanc {
+      color: white;
+      }
+.centré {
+      text-align: center;
       }
