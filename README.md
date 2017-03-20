@@ -1,9 +1,9 @@
-# Première page Web
+# 2ème semaine
 
-## Me donner un projet.
+## CV Web
 
-# CV Web
+## Lien badges CodeCademy
 
-## Jouer avec les images.
+[![CodeCademy](images/BadgesCodecademy.jpg)](https://www.codecademy.com/users/LauBre/achievements)
 
 Et plus.
