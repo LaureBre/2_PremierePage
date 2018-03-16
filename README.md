@@ -4,7 +4,7 @@ Exercice : Réaliser une page web pour son CV
 
 # 2ème semaine
 
-## CV Web
+## [CV Web](https://cdn.rawgit.com/LaureBre/Premier-HTML-CV/ea6e2472/CVLaureBredelet.html)
 
 ## Lien badges CodeCademy
 
